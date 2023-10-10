@@ -1,0 +1,19 @@
+.header {
+ 
+    position: relative;
+    padding: 1px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    color: #5c5885;
+    background-color: #c8e3ac;
+    text-align: center;
+  }
+
+  .logo {
+    width: 4%;
+  }
+
+  .title {
+    text-align: center;
+  }
